@@ -1,4 +1,4 @@
 # CLIP-Neuron-Labelling
 Neuron labelling for clip
 
-Run this in the same directory as CLIP dissect file
+Run main.py inside the clip dissect file
